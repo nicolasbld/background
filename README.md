@@ -1,5 +1,5 @@
 # background
 
-This is a website that allows you to choose a gradient and it displays the css lines to use it on your website.
+This website allows you to choose a gradient color background and it displays the css code to use it for your own application.
 
 Visit website [here](https://nicolasbld.github.io/background/).
